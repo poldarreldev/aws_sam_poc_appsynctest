@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-spmpocapp-dev-195735-authRole",
+            "UnauthRoleArn": "arn:aws:iam::073303872771:role/amplify-spmpocapp-dev-195735-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::073303872771:role/amplify-spmpocapp-dev-195735-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "amplify-spmpocapp-dev-195735-deployment",
+            "UnauthRoleName": "amplify-spmpocapp-dev-195735-unauthRole",
+            "StackName": "amplify-spmpocapp-dev-195735",
+            "StackId": "arn:aws:cloudformation:eu-west-2:073303872771:stack/amplify-spmpocapp-dev-195735/e7fdea20-a3ce-11eb-9426-0648095267c8",
+            "AmplifyAppId": "d2tep54a5pjrhi"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2tep54a5pjrhi",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
